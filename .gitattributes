@@ -8,3 +8,6 @@
 
 /.github export-ignore
 CHANGELOG.md export-ignore
+
+app/* linguist-documentation=false
+app/* linguist-vendored
